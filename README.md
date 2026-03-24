@@ -62,7 +62,7 @@ Languages         │ English (Native) · Russian (Conversational)
 
 I am currently available for:
 - **Remote IT infrastructure and support roles** — MSP, SME, or enterprise
-- **International roles** — Gulf region, Southeast Asia, or UK-based
+- **International roles** — Gulf region, Europe, Southeast Asia, or UK-based
 - **IT consulting** — infrastructure, AI tooling, or technical training
 
 📧 **lm.infradev@gmail.com**
