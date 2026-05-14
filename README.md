@@ -1,6 +1,6 @@
 # Hi, I'm Liam 👋
 
-Senior IT Infrastructure Engineer with 20+ years of hands-on enterprise experience — currently building local AI pipelines, self-hosted infrastructure stacks, and iOS applications.
+Senior Infrastructure & Support Engineer | Cloud, Linux & Private AI Infrastructure with 20+ years of hands-on enterprise experience — currently building local AI pipelines, self-hosted infrastructure stacks, and iOS applications.
 
 ---
 
